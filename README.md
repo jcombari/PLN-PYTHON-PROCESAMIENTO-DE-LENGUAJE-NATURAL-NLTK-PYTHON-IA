@@ -1,7 +1,7 @@
 # PLN-PYTHON-PROCESAMIENTO-DE-LENGUAJE-NATURAL-NLTK-PYTHON-IA
 
 - **[👉🔴PLN PYTHON (2021) | PROCESAMIENTO DE LENGUAJE NATURAL](https://www.youtube.com/playlist?list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G)**
-		- **[👉🔴PLN PYTHON | PROCESAMIENTO DE LENGUAJE NATURAL NLTK PYTHON IA (INTRO)](https://www.youtube.com/watch?v=y8VrUZZ4fPY&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=1)**
+	- **[👉🔴PLN PYTHON | PROCESAMIENTO DE LENGUAJE NATURAL NLTK PYTHON IA (INTRO)](https://www.youtube.com/watch?v=y8VrUZZ4fPY&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=1)**
 		- **[🔴CÓMO HACER un ROBOT QUE HABLE con INTELIGENCIA ARTIFICIAL CASERO(2021): CONVERSION TEXTO VOZ TTS](https://www.youtube.com/watch?v=NGSjwWrE-6A&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=2)**
 		- **[🔴 VOZ ROBOTICA con TTS y VOCODER para HACER un ROBOT con INTELIGENCIA ARTIFICIAL CASERO (2021)](https://www.youtube.com/watch?v=awawNe1YaOs&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=3)**
 		- **[🔴VOZ DE ROBOT SONIDOS ROBOTS ROBOTICOS EFECTOS #3: EXPRESIONES | INTELIGENCIA ARTIFICIAL (IA)](https://www.youtube.com/watch?v=ekCjYeY72Co&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=4)**
